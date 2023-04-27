@@ -37,7 +37,7 @@ Windows
 1. Make sure that you have done all the Pre-installation requirements in the `Getting Started` section above
 
 1. Clone this repository's source code
-   1. If you have git installed, this can be done as easily as `git clone https://github.com/alexschimpf/Snkrs-Bot`
+   1. If you have git installed, this can be done as easily as `git clone https://github.com/lee-1980/sneaker_bot_LMC`
    1. Otherwise, download the zipped source code and unzip it
 
 1. Navigate to the project's code
